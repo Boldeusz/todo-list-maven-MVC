@@ -1,3 +1,5 @@
 org\marcin\config\WebAppInitializer.class
+org\marcin\service\DemoService.class
 org\marcin\controller\DemoController.class
+org\marcin\service\DemoServiceImpl.class
 org\marcin\config\WebConfig.class
