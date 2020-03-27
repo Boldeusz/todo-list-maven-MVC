@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fdbca4b7-4266-4f21-bdab-fcb029323c83" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/marcin/model/ToDoItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/marcin/model/ToDoData.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/marcin/model/ToDoItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/marcin/model/ToDoItem.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585315006749</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update">
+      <created>1585316168482</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1585316168482</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -141,10 +149,10 @@
       <screen x="1920" y="0" width="1600" height="860" />
     </state>
     <state x="2326" y="21" key="#todo-list_[cargo:run]/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1585300335579" />
-    <state x="2285" y="24" key="CommitChangelistDialog2" timestamp="1585315005172">
+    <state x="2285" y="24" key="CommitChangelistDialog2" timestamp="1585316167437">
       <screen x="1920" y="0" width="1600" height="860" />
     </state>
-    <state x="2285" y="24" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1585315005172" />
+    <state x="2285" y="24" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1585316167437" />
     <state width="1557" height="158" key="GridCell.Tab.0.bottom" timestamp="1585314992283">
       <screen x="1920" y="0" width="1600" height="860" />
     </state>
@@ -161,10 +169,10 @@
       <screen x="1920" y="0" width="1600" height="860" />
     </state>
     <state width="1557" height="158" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1585314992282" />
-    <state x="2312" y="162" key="Vcs.Push.Dialog.v2" timestamp="1585315008741">
+    <state x="2312" y="162" key="Vcs.Push.Dialog.v2" timestamp="1585316169822">
       <screen x="1920" y="0" width="1600" height="860" />
     </state>
-    <state x="2312" y="162" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1585315008741" />
+    <state x="2312" y="162" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1585316169822" />
     <state x="2376" y="195" width="672" height="677" key="run.anything.popup" timestamp="1585300090912">
       <screen x="1920" y="0" width="1600" height="860" />
     </state>
