@@ -5,6 +5,7 @@ import lombok.NonNull;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
+import java.util.ListIterator;
 
 public class ToDoData {
 
@@ -33,5 +34,28 @@ public class ToDoData {
     }
     public void removeItem(int id){
 
+        ListIterator<ToDoItem> itemListIterator = items.listIterator();
+
+        while (itemListIterator.hasNext()) {
+            ToDoItem item = itemListIterator.next();
+
+            if (item.getId() == id){
+                itemListIterator.remove();
+                break;
+            }
+        }
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
