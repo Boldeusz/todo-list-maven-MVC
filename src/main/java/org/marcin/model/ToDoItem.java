@@ -4,7 +4,7 @@ import lombok.Data;
 import lombok.EqualsAndHashCode;
 
 import java.time.LocalDate;
-// == @Data lombok creates many methods insted of writing it!!! Superb
+// == @Data lombok creates many methods instead of writing it!!! Superb
 @Data
 @EqualsAndHashCode(of = "id")
 // @EqualsAndHashCode(of = {"id", "title"})

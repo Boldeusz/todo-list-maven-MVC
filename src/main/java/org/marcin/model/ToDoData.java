@@ -2,6 +2,7 @@ package org.marcin.model;
 
 import lombok.NonNull;
 
+import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
@@ -16,6 +17,13 @@ public class ToDoData {
     // == constructors ==
 
     public ToDoData() {
+
+        // ass some dummy data, using the addItem method so it sets the id field
+        addItem(new ToDoItem("first", "first details", LocalDate.now()));
+        addItem(new ToDoItem("second", "second details", LocalDate.now()));
+        addItem(new ToDoItem("third", "third details", LocalDate.now()));
+        addItem(new ToDoItem("fourth", "fourth details", LocalDate.now()));
+
     }
 
     // == public methods ==
@@ -41,6 +49,26 @@ public class ToDoData {
 
             if (item.getId() == id){
                 itemListIterator.remove();
+                break;
+            }
+        }
+    }
+    public ToDoItem getItem(int id){
+        for (ToDoItem item : items) {
+            if (item.getId() == id) {
+                return item;
+            }
+        }
+        return null;
+    }
+    public void updateItem(@NonNull ToDoItem toUpdate) {
+        ListIterator<ToDoItem> itemListIterator = items.listIterator();
+
+        while(itemListIterator.hasNext()) {
+            ToDoItem item = itemListIterator.next();
+
+            if (item.equals(toUpdate)){
+                itemListIterator.set(toUpdate);
                 break;
             }
         }

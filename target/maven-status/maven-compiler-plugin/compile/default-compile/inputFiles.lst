@@ -1,5 +1,13 @@
+C:\Users\Marcin\IdeaProjects\todo-list\src\main\java\org\marcin\model\ToDoItem.java
 C:\Users\Marcin\IdeaProjects\todo-list\src\main\java\org\marcin\config\WebAppInitializer.java
-C:\Users\Marcin\IdeaProjects\todo-list\src\main\java\org\marcin\config\WebConfig.java
-C:\Users\Marcin\IdeaProjects\todo-list\src\main\java\org\marcin\controller\DemoController.java
+C:\Users\Marcin\IdeaProjects\todo-list\src\main\java\org\marcin\util\AttributeNames.java
 C:\Users\Marcin\IdeaProjects\todo-list\src\main\java\org\marcin\service\DemoService.java
 C:\Users\Marcin\IdeaProjects\todo-list\src\main\java\org\marcin\service\DemoServiceImpl.java
+C:\Users\Marcin\IdeaProjects\todo-list\src\main\java\org\marcin\model\ToDoData.java
+C:\Users\Marcin\IdeaProjects\todo-list\src\main\java\org\marcin\service\TodoItemServiceImpl.java
+C:\Users\Marcin\IdeaProjects\todo-list\src\main\java\org\marcin\config\WebConfig.java
+C:\Users\Marcin\IdeaProjects\todo-list\src\main\java\org\marcin\controller\DemoController.java
+C:\Users\Marcin\IdeaProjects\todo-list\src\main\java\org\marcin\util\Mappings.java
+C:\Users\Marcin\IdeaProjects\todo-list\src\main\java\org\marcin\controller\TodoItemController.java
+C:\Users\Marcin\IdeaProjects\todo-list\src\main\java\org\marcin\service\TodoItemService.java
+C:\Users\Marcin\IdeaProjects\todo-list\src\main\java\org\marcin\util\ViewNames.java

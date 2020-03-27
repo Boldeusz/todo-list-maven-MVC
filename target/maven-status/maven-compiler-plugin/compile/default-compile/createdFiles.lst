@@ -1,5 +1,13 @@
 org\marcin\config\WebAppInitializer.class
+org\marcin\util\ViewNames.class
 org\marcin\service\DemoService.class
-org\marcin\controller\DemoController.class
+org\marcin\controller\TodoItemController.class
+org\marcin\util\AttributeNames.class
 org\marcin\service\DemoServiceImpl.class
+org\marcin\model\ToDoData.class
+org\marcin\controller\DemoController.class
 org\marcin\config\WebConfig.class
+org\marcin\service\TodoItemService.class
+org\marcin\util\Mappings.class
+org\marcin\model\ToDoItem.class
+org\marcin\service\TodoItemServiceImpl.class
