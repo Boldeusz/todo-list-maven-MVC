@@ -11,25 +11,25 @@
             <tr>
                 <td><label>ID</label></td>
                 <td>
-                    <c:out value="${todoItem.id}"/>
+                    <c:out value="${toDoItem.id}"/>
                 </td>
             </tr>
             <tr>
                 <td><label>Title</label></td>
                 <td>
-                    <c:out value="${todoItem.title}"/>
+                    <c:out value="${toDoItem.title}"/>
                 </td>
             </tr>
             <tr>
                 <td><label>Deadline</label></td>
                 <td>
-                    <c:out value="${todoItem.deadline}"/>
+                    <c:out value="${toDoItem.deadline}"/>
                 </td>
             </tr>
             <tr>
                 <td><label>Details</label></td>
                 <td>
-                    <c:out value="${todoItem.details}"/>
+                    <c:out value="${toDoItem.details}"/>
                 </td>
             </tr>
         </table>

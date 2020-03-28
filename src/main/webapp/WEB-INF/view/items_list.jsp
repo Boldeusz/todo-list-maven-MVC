@@ -27,13 +27,12 @@
                     <c:param name="id" value="${item.id}"/>
                 </c:url>
 
-
                 <c:url var="editUrl" value="${Mappings.ADD_ITEM}">
                     <c:param name="id" value="${item.id}"/>
                 </c:url>
 
                 <c:url var="deleteUrl" value="${Mappings.DELETE_ITEM}">
-                     <c:param name="id" value="${item.id}"/>
+                    <c:param name="id" value="${item.id}"/>
                 </c:url>
 
                 <tr>

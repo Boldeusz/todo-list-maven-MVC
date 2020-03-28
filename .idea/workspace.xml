@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fdbca4b7-4266-4f21-bdab-fcb029323c83" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/view_item.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/marcin/controller/TodoItemController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/marcin/controller/TodoItemController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/marcin/util/Mappings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/marcin/util/Mappings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/marcin/util/ViewNames.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/marcin/util/ViewNames.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/items_list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/items_list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/view_item.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/view_item.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/todo-list-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/todo-list-1.0-SNAPSHOT.war" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -162,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585388731053</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="update">
+      <created>1585390594169</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1585390594169</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -186,30 +191,30 @@
       <screen x="1920" y="0" width="1600" height="860" />
     </state>
     <state x="2326" y="21" key="#todo-list_[cargo:run]/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1585300335579" />
-    <state x="2285" y="24" key="CommitChangelistDialog2" timestamp="1585388729329">
+    <state x="2285" y="24" key="CommitChangelistDialog2" timestamp="1585390592671">
       <screen x="1920" y="0" width="1600" height="860" />
     </state>
-    <state x="2285" y="24" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1585388729329" />
-    <state width="1557" height="158" key="GridCell.Tab.0.bottom" timestamp="1585389781447">
+    <state x="2285" y="24" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1585390592671" />
+    <state width="1557" height="158" key="GridCell.Tab.0.bottom" timestamp="1585391501010">
       <screen x="1920" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="158" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1585389781447" />
-    <state width="1557" height="158" key="GridCell.Tab.0.center" timestamp="1585389781447">
+    <state width="1557" height="158" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1585391501010" />
+    <state width="1557" height="158" key="GridCell.Tab.0.center" timestamp="1585391501010">
       <screen x="1920" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="158" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1585389781447" />
-    <state width="1557" height="158" key="GridCell.Tab.0.left" timestamp="1585389781446">
+    <state width="1557" height="158" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1585391501010" />
+    <state width="1557" height="158" key="GridCell.Tab.0.left" timestamp="1585391501009">
       <screen x="1920" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="158" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1585389781446" />
-    <state width="1557" height="158" key="GridCell.Tab.0.right" timestamp="1585389781447">
+    <state width="1557" height="158" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1585391501009" />
+    <state width="1557" height="158" key="GridCell.Tab.0.right" timestamp="1585391501010">
       <screen x="1920" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="158" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1585389781447" />
-    <state x="2312" y="162" key="Vcs.Push.Dialog.v2" timestamp="1585388734311">
+    <state width="1557" height="158" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1585391501010" />
+    <state x="2312" y="162" key="Vcs.Push.Dialog.v2" timestamp="1585390595873">
       <screen x="1920" y="0" width="1600" height="860" />
     </state>
-    <state x="2312" y="162" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1585388734311" />
+    <state x="2312" y="162" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1585390595873" />
     <state x="2416" y="253" key="com.intellij.ide.util.TipDialog" timestamp="1585388264198">
       <screen x="1920" y="0" width="1600" height="860" />
     </state>
