@@ -2,30 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fdbca4b7-4266-4f21-bdab-fcb029323c83" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/marcin/controller/TodoItemController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/marcin/service/TodoItemService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/marcin/service/TodoItemServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/marcin/util/AttributeNames.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/marcin/util/Mappings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/marcin/util/ViewNames.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/add_item.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/home.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/items_list.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/marcin/config/WebConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/marcin/config/WebConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/marcin/model/ToDoData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/marcin/model/ToDoData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/marcin/model/ToDoItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/marcin/model/ToDoItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/configurations/tomcat8x/webapps/todo-list/META-INF/maven/org.marcin/todo-list/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/cargo/configurations/tomcat8x/webapps/todo-list/META-INF/maven/org.marcin/todo-list/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/configurations/tomcat8x/webapps/todo-list/WEB-INF/classes/org/marcin/config/WebConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/cargo/configurations/tomcat8x/webapps/todo-list/WEB-INF/classes/org/marcin/config/WebConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/configurations/tomcat8x/webapps/todo-list/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/marcin/config/WebConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/marcin/config/WebConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/todo-list-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/todo-list-1.0-SNAPSHOT.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/todo-list-1.0-SNAPSHOT/WEB-INF/classes/org/marcin/config/WebConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/todo-list-1.0-SNAPSHOT/WEB-INF/classes/org/marcin/config/WebConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/todo-list-1.0-SNAPSHOT/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/marcin/controller/TodoItemController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/marcin/controller/TodoItemController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585319154794</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="update">
+      <created>1585336707833</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1585336707833</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -189,34 +174,34 @@
       <screen x="1920" y="0" width="1600" height="860" />
     </state>
     <state x="2326" y="21" key="#todo-list_[cargo:run]/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1585300335579" />
-    <state x="2285" y="24" key="CommitChangelistDialog2" timestamp="1585319154050">
+    <state x="2285" y="24" key="CommitChangelistDialog2" timestamp="1585336705391">
       <screen x="1920" y="0" width="1600" height="860" />
     </state>
-    <state x="2285" y="24" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1585319154050" />
-    <state width="1557" height="158" key="GridCell.Tab.0.bottom" timestamp="1585335680233">
+    <state x="2285" y="24" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1585336705391" />
+    <state width="1557" height="158" key="GridCell.Tab.0.bottom" timestamp="1585337001788">
       <screen x="1920" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="158" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1585335680233" />
-    <state width="1557" height="158" key="GridCell.Tab.0.center" timestamp="1585335680233">
+    <state width="1557" height="158" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1585337001788" />
+    <state width="1557" height="158" key="GridCell.Tab.0.center" timestamp="1585337001788">
       <screen x="1920" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="158" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1585335680233" />
-    <state width="1557" height="158" key="GridCell.Tab.0.left" timestamp="1585335680233">
+    <state width="1557" height="158" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1585337001788" />
+    <state width="1557" height="158" key="GridCell.Tab.0.left" timestamp="1585337001788">
       <screen x="1920" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="158" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1585335680233" />
-    <state width="1557" height="158" key="GridCell.Tab.0.right" timestamp="1585335680233">
+    <state width="1557" height="158" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1585337001788" />
+    <state width="1557" height="158" key="GridCell.Tab.0.right" timestamp="1585337001788">
       <screen x="1920" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="158" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1585335680233" />
-    <state x="2312" y="162" key="Vcs.Push.Dialog.v2" timestamp="1585319156655">
+    <state width="1557" height="158" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1585337001788" />
+    <state x="2312" y="162" key="Vcs.Push.Dialog.v2" timestamp="1585336709572">
       <screen x="1920" y="0" width="1600" height="860" />
     </state>
-    <state x="2312" y="162" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1585319156655" />
-    <state x="2416" y="253" key="com.intellij.ide.util.TipDialog" timestamp="1585327045806">
+    <state x="2312" y="162" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1585336709572" />
+    <state x="2416" y="253" key="com.intellij.ide.util.TipDialog" timestamp="1585388264198">
       <screen x="1920" y="0" width="1600" height="860" />
     </state>
-    <state x="2416" y="253" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1585327045806" />
+    <state x="2416" y="253" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1585388264198" />
     <state x="2376" y="195" width="672" height="677" key="run.anything.popup" timestamp="1585300090912">
       <screen x="1920" y="0" width="1600" height="860" />
     </state>
