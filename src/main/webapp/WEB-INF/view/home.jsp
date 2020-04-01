@@ -3,7 +3,7 @@
 
 <html>
 <head>
-    <title>Todo List Application</title>
+    <title>Todo List Application 2</title>
 </head>
 <body>
     <div align="center">

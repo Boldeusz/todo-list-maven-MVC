@@ -28,11 +28,12 @@ public class DemoController {
     @ResponseBody
     @GetMapping("/hello")
     public String hello(){
-        return "hello";
+        return "hello!!!!!";
     }
 
     // http://localhost:8080/todo-list/welcome
     // http://localhost:8080/todo-list/welcome?user=Marcin
+    // http://localhost:8080/todo-list/welcome?user=Marcin&age=39
 
 
     @GetMapping("welcome")
